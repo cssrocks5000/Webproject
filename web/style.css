@@ -1,0 +1,136 @@
+
+html{
+    min-height: 100%;
+    position: relative;
+}
+body{
+    margin-bottom: 70px;
+}
+/*Navigation*/
+.navbar-custom {
+    color: #000000;
+    background-color: #ffffff;
+}
+
+/*Logo*/
+.navbar-logo{
+  background: url('./img/logo.svg') no-repeat;
+  height:125px;
+  width: 200px;
+  position: relative;
+  top: -45px;
+}
+
+/*Bootstrap*/
+.glyphicon{
+    padding: 0 10px;
+}
+
+.help-block{
+    float:right;
+    color:#9C9C9C;
+}
+
+.warning{
+    border:2px solid #FFB160;
+}
+
+/*Smiley*/
+.smiley{
+    max-width:25px;
+    height:auto;
+}
+/*Button*/
+.btn-custom{
+  background-color: #000000;
+  color:#fff;
+}
+
+
+/*Input*/
+.user-input{
+    margin:10px 0px;
+}
+
+.truncate {
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.wrapper{margin-top: 25px; width:100%;}
+
+
+/*Card*/
+.card{box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);display:inline-block;}
+.card td, th{padding: 10px;}
+
+
+/*Page*/
+.about-author{
+    display: inline-block;
+}
+
+
+
+/*News-Cars*/
+#news-card{
+  margin-bottom: 25px;
+  width:100%;
+}
+
+/*Shoubox*/
+.card.shoutbox{height:300px; width:100%;padding:10px;overflow-y: scroll;background:#fff;}
+.card #shout{
+    background: #fff;
+    border-radius: 0px 10px 10px 10px;
+    padding:10px;
+    margin-top: 10px;
+    color:#000;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    list-style: none;
+ }
+
+.vorstand-card{
+  display: block;
+  margin-bottom: 50px;
+}
+/*Vorstand*/
+
+#vorstand-img-box{
+  margin: 0px auto;
+  padding:10px;
+  width:140px;
+  position: relative;
+  top:10px;
+
+}
+
+#vorstand-img-col-bg{
+  background:#337AB7;
+  height:166px;
+}
+
+.vorstand-table{
+  height: 165px;
+}
+
+
+.container.cont{
+    margin-bottom: 110px;
+}
+/*Footer*/
+.footer{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  height: 70px;
+  background:#e7e7e7;
+  padding: 20px 0px;
+  
+}
+
+/*News*/
+textarea{
+  resize:none;
+}
