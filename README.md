@@ -1,8 +1,8 @@
 # Web-Engineering
 FH-Dortmund - Web-Engineering - Praktikum
 
-##Libs
+## Libs
 * javax.ws.rs:javax.ws-rs-api:2.0.1
 
-##Credits
+## Credits
 * Smileys von [Emojipedia](http://emojipedia.org/apple/)
