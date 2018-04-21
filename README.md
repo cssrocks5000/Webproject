@@ -1,5 +1,5 @@
 # Web-Engineering
-FH-Dortmund project
+FH Dortmund project
 
 ## Libs
 * javax.ws.rs:javax.ws-rs-api:2.0.1
